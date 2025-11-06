@@ -15,9 +15,7 @@ public class RandomWorldGenerator {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hola mundo");
-        System.out.println("Prueba 1 commit");
-        System.out.println("Prueba 2 pull request");
+        System.out.println("Mi primer commit");
     }
     
 }
