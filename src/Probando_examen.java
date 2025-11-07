@@ -17,6 +17,8 @@ public class RandomWorldGenerator {
     public static void main(String[] args) {
         System.out.println("Mi primer commit");
         System.out.println("Mi primera prueba");
+        System.out.println("Mi segunda prueba");
+        
     }
     
 }
